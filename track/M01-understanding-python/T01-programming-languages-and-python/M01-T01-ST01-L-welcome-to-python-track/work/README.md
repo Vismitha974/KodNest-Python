@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+My name is Vismitha 
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learned basics,logic from psudocode and gained strong grip and confident towards coding .
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected python as it is easy to learn and as wide range of oppertunity to get a job and we can swithch easily in the carrer .
 
 ## My Career Goal
 
-Write the role you want to achieve.
+I want to become a Python Developer 
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means:it is a way to solve the real world problem using logic and instruction 
 
-Python is:
+Python is: Dynamic language
 
 In this track, I will learn:
