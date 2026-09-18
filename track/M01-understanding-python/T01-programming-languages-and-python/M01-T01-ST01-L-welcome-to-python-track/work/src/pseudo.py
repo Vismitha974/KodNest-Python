@@ -4,8 +4,8 @@
 # End
 
 print("Hello World! \nThank you for learning python")
-# print("Hello World!", end=" ")
-# print("Thank you for learning python")
+print("Hello World!", end=" ")
+ print("Thank you for learning python")
 
 
 # To find wheather number (n) is even or odd
@@ -23,6 +23,7 @@ if n%2 ==0:
     print("Even")
 else:
     print("Odd")
+
 
 # To find the number is pos,neg or Zero
 # Start
@@ -43,6 +44,7 @@ elif n < 0:
     print("Negative ")
 else:
     print("Zero")
+    
 
 # To find the largest number among  3 numbers (a,b,c)
 # Start
