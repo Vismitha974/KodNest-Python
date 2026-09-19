@@ -2,7 +2,7 @@
 
 ## My Name
 
-My name is Vismitha 
+My name is Vismitha .
 
 ## What I Learned in Foundation Month
 
@@ -14,14 +14,14 @@ I selected python as it is easy to learn and as wide range of oppertunity to get
 
 ## My Career Goal
 
-I want to become a Python Developer 
+I want to become a Python Developer .
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:it is a way to solve the real world problem using logic and instruction 
+Programming means:it is a way to solve the real world problem using logic and instruction .
 
-Python is: Dynamic language
+Python is: Dynamic language .
 
-In this track, I will learn: how to apply my logic using python syntax.
+In this track, I will learn: how to apply my logic using python syntax .
