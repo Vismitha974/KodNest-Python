@@ -24,4 +24,4 @@ Programming means:it is a way to solve the real world problem using logic and in
 
 Python is: Dynamic language
 
-In this track, I will learn:
+In this track, I will learn: how to apply my logic using python syntax.
