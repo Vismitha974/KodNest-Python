@@ -2,7 +2,7 @@
 name = input("Enter the name :")
 print(f"My name is {name} !")
 
-age = input("Enter the age")
+age = input("Enter the age :")
 print(f"The age is {age}")
 
 #value input -> str
@@ -10,4 +10,4 @@ print(f"The age is {age}")
 a =int(input("a :"))
 b =int( input("b :"))
 c = a + b
-print(c)
+print(c)SS
