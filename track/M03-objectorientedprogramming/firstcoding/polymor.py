@@ -58,3 +58,44 @@ cw = cow()
 
 make_sound(ct)
 make_sound(cw)
+
+class Phonepay:
+    def pay(self):
+        print("Payment through phonepay")
+
+class Cash:
+    def pay(self):
+        print("Payment through cash")
+
+def make_payment(payment):
+    payment.pay()
+
+pp = Phonepay()
+ch = Cash()
+
+make_payment(pp)
+make_payment(ch)
+
+
+# Operator overloading - + ->dunder methods __
+
+print(3 + 3)# 6
+print("hi" + "helli") # hihello
+
+class Student:
+    def __init__(self, marks):
+        self.marks = marks
+    def __add__(self, other):
+        return self.marks + other.marks
+    def __mul__(self, other):
+        return self.marks + other.marks
+
+s1 = Student(20)
+s2 = Student(40)
+
+print(s1 + s2)
+print(s1 * s2)
+
+class Person:
+    def __init__(self, name, age):
+        
